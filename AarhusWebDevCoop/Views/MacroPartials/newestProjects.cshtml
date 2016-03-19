@@ -1,0 +1,16 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+
+	@{  
+        var items = @Umbraco.Content(1094).Children().Where("projectStatus.Contains(\"4\")").OrderBy("CreateDate desc").Take(4);
+	}
+    <ul>
+
+    @foreach (var item in items) {
+        <li><a href="@item.Url">@item.Name</a></li>
+        
+    }
+    </ul>
+
+
+

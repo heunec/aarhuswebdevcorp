@@ -1,0 +1,236 @@
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll.config
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\CookComputing.XmlRpcV2.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ICSharpCode.SharpZipLib.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.Web.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\log4net.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MarkdownSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationBlocks.Data.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Web.Infrastructure.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MySql.Data.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Semver.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.Entity.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\TidyNet.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UrlRewritingNet.UrlRewriter.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.pdb
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.xml
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.dll
+\\mac\home\documents\visual studio 2015\Projects\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\csc.exe
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Collections.Immutable.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\System.Reflection.Metadata.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\vbc.exe
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\roslyn\VBCSCompiler.exe.config
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll.config
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AarhusWebDevCoop.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.Net4.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\CookComputing.XmlRpcV2.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ICSharpCode.SharpZipLib.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ImageProcessor.Web.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\log4net.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\MarkdownSharp.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeAnalysis.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Web.Infrastructure.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\MySql.Data.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Owin.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Semver.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Collections.Immutable.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Data.SqlServerCe.Entity.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Reflection.Metadata.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\TidyNet.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\UrlRewritingNet.UrlRewriter.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\AutoMapper.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\businesslogic.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\ClientDependency.Core.Mvc.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\cms.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\controls.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Examine.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\HtmlAgilityPack.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\interfaces.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Lucene.Net.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\MiniProfiler.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Newtonsoft.Json.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\SQLCE4Umbraco.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Net.Http.Formatting.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Helpers.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Http.WebHost.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Mvc.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.Razor.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Deployment.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\System.Web.WebPages.Razor.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Core.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.DataLayer.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.editorControls.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.MacroEngines.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.ModelsBuilder.pdb
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\umbraco.providers.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\Umbraco.Web.UI.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\bin\UmbracoExamine.xml
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.csprojResolveAssemblyReference.cache
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.dll
+C:\CMS\Umbraco\AarhusWebDevCoop\AarhusWebDevCoop\obj\Debug\AarhusWebDevCoop.pdb

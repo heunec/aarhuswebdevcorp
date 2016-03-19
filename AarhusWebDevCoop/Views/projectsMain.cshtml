@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+                                                 Layout = "master.cshtml";
+}
+@foreach (var menuItem in root.Children.Where("UmbracoNavHide == false")) {
+	var isProtected = umbraco.library.IsProtected(menuItem.id, menuItem.path);
+	var loginAccess = umbraco.library.IsProtected(menuItem.id, menuItem.path) && umbraco.library.HasAccess(menuItem.id, menuItem.path);
+	
+	if (!isProtected || loginAccess) {
+	<li class="@(menuItem.IsAncestorOrSelf(CurrentPage) ? "active" : null)">
+	<a href="@menuItem.Url">@menuItem.Name</a> </li>
+}
+
+<div class="container">
+	@Umbraco.Field("projectsTitle")
+	@Umbraco.Field("projectsBodyText")
+</div>
